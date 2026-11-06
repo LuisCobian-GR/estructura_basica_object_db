@@ -1,0 +1,6 @@
+mx\edu\tecmm\elgrullo\proyectobasedboo\model\Producto.class
+mx\edu\tecmm\elgrullo\proyectobasedboo\repository\ProductoRepository.class
+mx\edu\tecmm\elgrullo\proyectobasedboo\controller\ProductoController.class
+mx\edu\tecmm\elgrullo\proyectobasedboo\view\ProductosView.class
+mx\edu\tecmm\elgrullo\proyectobasedboo\ProyectoBaseDboo.class
+mx\edu\tecmm\elgrullo\proyectobasedboo\config\ConnectionService.class
